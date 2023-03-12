@@ -3,7 +3,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "student-e-commerce-chunk-1-633bb10f.png",
+      "image": "student-e-commerce-chunk-1-0e59ec66.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -149,7 +149,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "student-e-commerce-chunk-2-633bb10f.png",
+      "image": "student-e-commerce-chunk-2-0e59ec66.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -164,7 +164,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "student-e-commerce-chunk-3-633bb10f.png",
+      "image": "student-e-commerce-chunk-3-0e59ec66.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -179,7 +179,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "student-e-commerce-chunk-4-633bb10f.png",
+      "image": "student-e-commerce-chunk-4-0e59ec66.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -194,7 +194,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "student-e-commerce-chunk-5-633bb10f.png",
+      "image": "student-e-commerce-chunk-5-0e59ec66.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -209,7 +209,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "student-e-commerce-chunk-6-633bb10f.png",
+      "image": "student-e-commerce-chunk-6-0e59ec66.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -224,7 +224,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "student-e-commerce-chunk-7-633bb10f.png",
+      "image": "student-e-commerce-chunk-7-0e59ec66.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -239,7 +239,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "student-e-commerce-chunk-8-633bb10f.png",
+      "image": "student-e-commerce-chunk-8-0e59ec66.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -254,7 +254,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "student-e-commerce-chunk-9-633bb10f.png",
+      "image": "student-e-commerce-chunk-9-0e59ec66.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -269,7 +269,7 @@
     {
       "columns": 15,
       "firstgid": 2305,
-      "image": "student-e-commerce-chunk-10-633bb10f.png",
+      "image": "student-e-commerce-chunk-10-0e59ec66.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -14249,7 +14249,31 @@
       "draworder": "topdown",
       "id": 6,
       "name": "floorLayer",
-      "objects": [],
+      "objects": [
+        {
+          "height": 588.118418438307,
+          "id": 1,
+          "name": "zoom-student-e-commerce",
+          "properties": [
+            {
+              "name": "focusable",
+              "type": "bool",
+              "value": true
+            },
+            {
+              "name": "zoom_margin",
+              "type": "float",
+              "value": 0
+            }
+          ],
+          "rotation": 0,
+          "type": "area",
+          "visible": true,
+          "width": 474.865885157957,
+          "x": 743.095569242996,
+          "y": 220.544406914365
+        }
+      ],
       "opacity": 1,
       "visible": true,
       "x": 0,
@@ -16253,7 +16277,7 @@
   "height": 33,
   "infinite": false,
   "nextlayerid": 12,
-  "nextobjectid": 1,
+  "nextobjectid": 2,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tiledversion": "1.8.4",
