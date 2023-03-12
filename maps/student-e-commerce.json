@@ -320,7 +320,29 @@
          "draworder":"topdown",
          "id":6,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":588.118418438307,
+                 "id":1,
+                 "name":"zoom-student-e-commerce",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":0
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":474.865885157957,
+                 "x":743.095569242996,
+                 "y":220.544406914365
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -372,7 +394,7 @@
          "y":0
         }],
  "nextlayerid":12,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.8.4",
